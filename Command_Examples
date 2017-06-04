@@ -1,0 +1,4 @@
+# Exemplos de comandos utilizados ...
+
+
+forall(binarios(N), writeln(N)).
