@@ -4,3 +4,4 @@ coloracao(A, B, C, D, E).
 binarios(N).
 forall(binarios(N), writeln(N)).
 rotas(a,c,2).
+refeicoes().
